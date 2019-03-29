@@ -1,6 +1,6 @@
-/*
- * Matt Packwood, Orchard Ridge, Monday Evening Class, Fall Semester 2003
- * Multiple figure display; assumes adequate applet screen size 
+/* Matt Packwood, Orchard Ridge Campus, Monday Evening Class, Fall Semester 2003
+ * 
+ * PA03: Multiple figure display; assumes adequate applet screen size 
  *
  * Demo the use of category one user methods (instance vars) to display
  * several figs by multiple refs to a fig display method.  The base values
